@@ -1,5 +1,21 @@
-# Encabezado tipo 1
-PRACTICA DEL CURSO
-## Encabezado tipo 2
-CREACION DEL CV
-Este es mi **CV**
+<html>
+    <head>
+        <title>MARCO ESPINOZA LOPEZ CURRICULUM VITAE</title>     
+    </head>
+    <body>
+        Nombre: Marco Espinoza
+		Profesion: Geógrafo
+		p> <em>Este es un resumen del perfil profesional de su servidor</em></p>
+		....
+		<p><h6> <a href= "https://semanariouniversidad.com/pais/amenazas-de-medicos-especialistas-fueron-detonante-para-terminar-huelga/"> Finalizo la huelga en la CCSS </a> Este es un encabezado de nivel 1</h6></p>
+		
+		<p> <em> </em></p>
+		<img src="F:\MAESTRIA\2SEMESTRE2019\PROGRAMACION_WEB\14082019\img\cv.jpg" alt="A continuacion se despliega el CV en formato jpg" height="400" width="600">
+		<!--
+		<p> hecho algo interesante, pero inmediatamente me desperte </p>
+		
+		<p> <strong>y era el dia de la madre.</strong>
+		
+		-->
+		
+		Hola mundo cruel
